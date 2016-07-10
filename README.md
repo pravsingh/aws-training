@@ -1,5 +1,5 @@
 
-![Amazon Web Services Training](/images/banner.png)
+![Amazon Web Services Training](images/banner.png)
 
 # Amazon Web Services Training
 
@@ -7,10 +7,16 @@ This is a two-day course that teaches the basics of [Amazon Web Services](http:/
 
 The course guides participants roughly towards the [Solutions Architect certification](http://aws.amazon.com/certification/certified-solutions-architect-associate/), but expands slightly more towards software development, than what is required in the certification. In the later modules, we will take a look at a Java web application that consists of several backend services, and we will deploy it to AWS as an auto-scaling cluster of servers.
 
-## Getting started
+# Table of Contents
 
-For modules 1-4, a laptop with a browser and SSH client is enough. Modules 5-8 include programming assignments that require JDK 8, IDE and Ansible. See the [Getting Started](docs/getting_started.md) for information on how to prepare for the programming workshop and how to set up your tools.
+   *   [01-aws_intro.md](01-aws_intro.md)
+   *   [02-compute.md](02-compute.md)
+   *   [03-storage_and_databases.md](03-storage_and_databases.md)
+   *   [04-application_services.md](04-application_services.md)
+   *   [05-software_development.md](05-software_development.md)
+   *   [06-cloudformation.md](06-cloudformation.md)
+   *   [07-best_practice_architectures.md](07-best_practice_architectures.md)
+   *   [08-complete_system.md](08-complete_system.md)
+   *   [09-certificate_preparation.md](09-certificate_preparation.md)
 
-## Presentation slides
 
-View the [presentation content](docs/) (or run `./start_presentation.sh`).
